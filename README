@@ -1,0 +1,9 @@
+命令行格式：LuaDebugger [script file]
+调试命令：
+  加载脚本：l <script file>
+	运行脚本：g
+	设置断点：b <line number>
+	清除断点：c <line number>
+	单步执行：n
+	函数调用：f
+	退出：    q
